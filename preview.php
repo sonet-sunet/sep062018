@@ -5,6 +5,6 @@
     <title>Danny's</title>
 </head>
 <body>
-    <h1>Это мой файлик.</h1>
+    <h1>Это мой файлик</h1>
 </body>
 </html>
